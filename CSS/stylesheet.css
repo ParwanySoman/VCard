@@ -171,9 +171,9 @@ body 		{
     		transition: 0.5s;
     		}
 
-    	#button3:hover span:
+    	#button3:hover span
     		{
-    		padding-left: 25px;
+    		padding-right: 25px;
     		}
 
     	#button3:hover span:after
